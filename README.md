@@ -20,7 +20,7 @@
   3. https://www.jzbk.net/
   4. https://www.vpsjyz.com/
   5. https://vpsledger.com/zh-hans/
-- IP 纯净度测试：https://ippure.com/  
+- IP 纯净度测试：https://ippure.com/  https://ping0.cc/  
   （购买前可向客服索取测试 IP 进行检测）
 
 **系统要求：**  
