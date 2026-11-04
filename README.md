@@ -24,6 +24,8 @@
   1. https://ippure.com/
   2. https://ping0.cc/  
   （购买前可向客服索取测试 IP 进行检测）
+- ping全国观察IP三大运营商连通度
+  1. https://antping.com/ping
 
 **系统要求：**  
 推荐使用 Ubuntu 24.04 或 22.04。
