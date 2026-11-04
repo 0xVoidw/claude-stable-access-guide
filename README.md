@@ -8,7 +8,7 @@
 
 **推荐要求：**
 
-- 地区优先选择美国西部（延迟较低）
+- 地区可选择美国西部、日本或新加坡；**不要选择香港**。Claude 官方支持地区包括美国、日本和新加坡，但目前未列出香港，可能无法正常访问。详见 [Claude 官方支持地区](https://support.claude.com/en/articles/8461763-where-can-i-access-claude)
 - IP 尽量选择住宅 IP；若非住宅，纯净度必须高
 - 便宜的VPS必须选小众VPS厂商，不要热门厂商，欧洲或北美二线VPS厂商
 
@@ -20,7 +20,9 @@
   3. https://www.jzbk.net/
   4. https://www.vpsjyz.com/
   5. https://vpsledger.com/zh-hans/
-- IP 纯净度测试：https://ippure.com/  https://ping0.cc/  
+- IP 纯净度测试
+  1. https://ippure.com/
+  2. https://ping0.cc/  
   （购买前可向客服索取测试 IP 进行检测）
 
 **系统要求：**  
