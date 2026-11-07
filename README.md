@@ -1,6 +1,6 @@
 # Claude 稳定访问配置指南
 
-本指南用于通过 VPS + Sing-box + Clash + Hyper-V 虚拟机构建稳定的 Claude 使用环境，降低风控风险。
+本指南用于通过 VPS + Sing-box + Clash + Hyper-V 虚拟机构建稳定的 Claude 使用环境，降低风控风险。部署提示词参考：[VPS 四协议部署提示词](https://github.com/0xVoidw/vps-sing-box-deployment-prompt)；[Hyper-V 独立代理网关部署提示词](https://github.com/0xVoidw/hyper-v-proxy-gateway-deployment-prompt)（独立网关是另一种网络架构）。
 虚拟机已经被封过claude账号的可以参考：https://github.com/Pluviobyte/claude-ban-clean 清理下环境
 
 ---
