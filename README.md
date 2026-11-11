@@ -53,8 +53,8 @@ bash <(curl -Ls https://raw.githubusercontent.com/eooce/sing-box/main/sing-box.s
 
 ```
 sb
-7  # 回车
 6  # 回车
+7  # 回车
 ```
 
 ### 3. 开启 BBR 加速
